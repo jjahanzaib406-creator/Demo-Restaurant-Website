@@ -1,0 +1,27 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Bistro Noir Lahore premium restaurant website",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://t:eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJvcmNoaWRzIiwic3ViIjoiQHBpZXJyZS9zdG9yYWdlIiwicmVwbyI6IjJlMmM0ZTAzLTg4MTQtNDgwNC04ZGI4LTE0NzBkN2E3MGRhYyIsInNjb3BlcyI6WyJnaXQ6cmVhZCIsImdpdDp3cml0ZSJdLCJpYXQiOjE3NzMwNDU1OTcsImV4cCI6MTgwNDE0OTU5N30.zm_ASV_yYB-e3brgJqvn_E6Y5rab5PlIO45OFEMbS5ehCGNMxh3-mYIeJozx-6Ie915BAPLUWuJexqkLGF6gDg@orchids.code.storage/2e2c4e03-8814-4804-8db8-1470d7a70dac.git"
+  },
+  "keywords": [
+    "bistro-noir",
+    "restaurant",
+    "lahore",
+    "fine-dining"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^7.3.1"
+  }
+}
